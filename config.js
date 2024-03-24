@@ -16,8 +16,8 @@ global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
 global.github=process.env.GITHUB|| "https://github.com/Ednut001/naruto-md/tree/main";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/HfMmL74aP3lC24AcHtebWx";
-global.website=process.env.GURL || "https://chat.whatsapp.com/HfMmL74aP3lC24AcHtebWx" ; 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp";
+global.website=process.env.GURL || "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/9bf1a1bcf371e65699cb8.jpg" ; // SET LOGO FOR IMAGE 
 
 
