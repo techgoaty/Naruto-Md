@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/9bf1a1bcf371e65699cb8.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/4874eca40594e3b152655.jpg">
   </a>
 </p>
     
@@ -84,13 +84,9 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***get session id from suhial md till i make my own qr/pairing code***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional` not necessary skip***
-4.  ***Click [`FORK`](https://github.com/Ednut001/naruto-Md/fork) and `Star ⭐ Repository` for Courage.***
-5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/naruto-Md)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
-9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
+4.  ***Click [`FORK`](https://github.com/Ednut001/naruto-Md/fork) and `Star ⭐ Repository` for Courage. or else bot wont respond🤦***
+5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Ednut001/naruto-Md)***
+- *only heroku deployment available for now please bare*🤝
 
 ##
 ---
